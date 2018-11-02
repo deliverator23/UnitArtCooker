@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..AssetInstance>
+	<m_BehaviorData>
+		<m_behaviorDataSets>
+			<m_animationBindings>
+				<m_Bindings>
+					<Element>
+						<m_SlotName text="ATTACK_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_B"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_C"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_COMBAT_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_COMBAT_B"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_COMBAT_C"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_COMBAT_D"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="IDLE_D"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="HERO_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="FORWARD_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="BACKWARD_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="BREATHING_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="REACT_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_1"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DODGE_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="SPAWN"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_2"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_3"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="BREATHING_COMBAT_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEFEND_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_4"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_5"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_6"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="TURN_R"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="TURN_L"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_7"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_8"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_10"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_11"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_12"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_13"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_14"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_9"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="ATTACK_1"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEFEND_1"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="HERO_1"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="REACT_RANGED_A"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="REACT_RANGED_B"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="REACT_RANGED_D"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="REACT_RANGED_C"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="VICTORY"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_15"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_16"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_17"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_18"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_19"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_20"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT_STOP"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_START"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_B"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_C"/>
+						<m_AnimationName text=""/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_D"/>
+						<m_AnimationName text=""/>
+					</Element>
+				</m_Bindings>
+			</m_animationBindings>
+			<m_timelineBindings>
+				<m_Bindings/>
+			</m_timelineBindings>
+			<m_timelines>
+				<m_Timelines/>
+			</m_timelines>
+			<m_attachmentPoints>
+				<m_Points>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="Hat"/>
+						<m_BoneName text="Head"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="WeaponPrimary"/>
+						<m_BoneName text="Inven_R_Hand"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+				</m_Points>
+			</m_attachmentPoints>
+			<m_stateSet/>
+		</m_behaviorDataSets>
+		<m_behaviorInstances>
+			<Element text="Musketman"/>
+			<Element text="SingleBiped_Deaths"/>
+		</m_behaviorInstances>
+		<m_dsgName text="potential_any_graph"/>
+		<m_referenceGeometryNames/>
+	</m_BehaviorData>
+	<m_GeometrySet>
+		<m_ModelInstances>
+			<Element>
+				<m_Name text="Root"/>
+				<m_GeoName text="NativeAmericanArmor_A"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects::ObjectValue">
+									<m_ObjectName text="HorsemanA"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HorsemanA"/>
+						<m_MeshName text="HorsemanShoes"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects::ObjectValue">
+									<m_ObjectName text="NativeAmericanA"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="EagleWarrior_Material"/>
+						<m_MeshName text="NativeAmericanArmor"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+		</m_ModelInstances>
+	</m_GeometrySet>
+	<m_CookParams>
+		<m_Values/>
+	</m_CookParams>
+	<m_Version>
+		<major>3</major>
+		<minor>0</minor>
+		<build>192</build>
+		<revision>961</revision>
+	</m_Version>
+	<m_ParticleEffects/>
+	<m_Geometries/>
+	<m_Animations/>
+	<m_Materials/>
+	<m_ClassName text="Unit"/>
+	<m_DataFiles/>
+	<m_Name text="NativeAmericanArmorMusketman_A"/>
+	<m_Description text=""/>
+	<m_Tags>
+		<Element text="Unit"/>
+	</m_Tags>
+	<m_Groups/>
+</AssetObjects..AssetInstance>
+

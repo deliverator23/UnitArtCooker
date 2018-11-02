@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/rifleman"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Rifleman_Armor"/>
+			<m_ObjectName text="Rifleman_Armor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Rifleman_Gun"/>
+			<m_ObjectName text="Rifleman_Gun"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Rifleman_Hat"/>
+			<m_ObjectName text="Rifleman_Hat"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

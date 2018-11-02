@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/modernInfantry2"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ModernInfantry_ArmorA2"/>
+			<m_ObjectName text="ModernInfantry_ArmorA2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ModernInfantry_RifleA2"/>
+			<m_ObjectName text="ModernInfantry_RifleA2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ModernInfantryObserver"/>
+			<m_ObjectName text="ModernInfantryObserver"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

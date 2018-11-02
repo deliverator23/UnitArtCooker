@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/roundShields"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Round_ShieldA"/>
+			<m_ObjectName text="Round_ShieldA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldC"/>
+			<m_ObjectName text="Round_ShieldC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldD"/>
+			<m_ObjectName text="Round_ShieldD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldE"/>
+			<m_ObjectName text="Round_ShieldE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldF"/>
+			<m_ObjectName text="Round_ShieldF"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldG"/>
+			<m_ObjectName text="Round_ShieldG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldH"/>
+			<m_ObjectName text="Round_ShieldH"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldJ"/>
+			<m_ObjectName text="Round_ShieldJ"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldK"/>
+			<m_ObjectName text="Round_ShieldK"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_ShieldL"/>
+			<m_ObjectName text="Round_ShieldL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

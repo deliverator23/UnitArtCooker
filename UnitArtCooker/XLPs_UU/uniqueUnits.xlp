@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/uniqueUnits"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="PlateMailWarrior_ArmorA"/>
+			<m_ObjectName text="PlateMailWarrior_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PlateMailBuffHorseman_ArmorA"/>
+			<m_ObjectName text="PlateMailBuffHorseman_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ClaymoreA"/>
+			<m_ObjectName text="ClaymoreA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WarCanoeRetintable"/>
+			<m_ObjectName text="WarCanoeRetintable"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Kris"/>
+			<m_ObjectName text="Kris"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Kris_Armor"/>
+			<m_ObjectName text="Kris_Armor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Indo_ShieldA"/>
+			<m_ObjectName text="Indo_ShieldA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Indo_ShieldB"/>
+			<m_ObjectName text="Indo_ShieldB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HeadbandA"/>
+			<m_ObjectName text="HeadbandA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HeadbandB"/>
+			<m_ObjectName text="HeadbandB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="U_Korean_Turtle_Ship"/>
+			<m_ObjectName text="U_Korean_Turtle_Ship"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingFaceA"/>
+			<m_ObjectName text="NativeAmericanClothingFaceA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingFaceB"/>
+			<m_ObjectName text="NativeAmericanClothingFaceB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingFaceC"/>
+			<m_ObjectName text="NativeAmericanClothingFaceC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingFaceD"/>
+			<m_ObjectName text="NativeAmericanClothingFaceD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingArmorCavalry_A"/>
+			<m_ObjectName text="NativeAmericanClothingArmorCavalry_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NativeAmericanClothingArmorCavalry_B"/>
+			<m_ObjectName text="NativeAmericanClothingArmorCavalry_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatA"/>
+			<m_ObjectName text="Musketeer_HatA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatB"/>
+			<m_ObjectName text="Musketeer_HatB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatC"/>
+			<m_ObjectName text="Musketeer_HatC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatD"/>
+			<m_ObjectName text="Musketeer_HatD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatE"/>
+			<m_ObjectName text="Musketeer_HatE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketeer_HatF"/>
+			<m_ObjectName text="Musketeer_HatF"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Musketman_Tint_ArmorA"/>
+			<m_ObjectName text="Musketman_Tint_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MongolianTrebuchet"/>
+			<m_ObjectName text="MongolianTrebuchet"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Russian_KiteShieldA"/>
+			<m_ObjectName text="Russian_KiteShieldA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Russian_KiteShieldB"/>
+			<m_ObjectName text="Russian_KiteShieldB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Russian_KiteShieldC"/>
+			<m_ObjectName text="Russian_KiteShieldC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Russian_KiteShieldD"/>
+			<m_ObjectName text="Russian_KiteShieldD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Georgian_KiteShieldA"/>
+			<m_ObjectName text="Georgian_KiteShieldA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Georgian_KiteShieldB"/>
+			<m_ObjectName text="Georgian_KiteShieldB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Georgian_KiteShieldC"/>
+			<m_ObjectName text="Georgian_KiteShieldC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Georgian_KiteShieldD"/>
+			<m_ObjectName text="Georgian_KiteShieldD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Berserker_HelmA"/>
+			<m_ObjectName text="Berserker_HelmA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Berserker_HelmB"/>
+			<m_ObjectName text="Berserker_HelmB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Berserker_HelmC"/>
+			<m_ObjectName text="Berserker_HelmC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Berserker_HelmD"/>
+			<m_ObjectName text="Berserker_HelmD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_HatA"/>
+			<m_ObjectName text="Mapuche_HatA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_HatB"/>
+			<m_ObjectName text="Mapuche_HatB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_Pikeman_ArmorA"/>
+			<m_ObjectName text="Mapuche_Pikeman_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_Pikeman_ArmorB"/>
+			<m_ObjectName text="Mapuche_Pikeman_ArmorB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_Archer_ArmorA"/>
+			<m_ObjectName text="Mapuche_Archer_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mapuche_Archer_ArmorB"/>
+			<m_ObjectName text="Mapuche_Archer_ArmorB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_SouthAmerican_BuffBody_NoButtA"/>
+			<m_ObjectName text="Male_SouthAmerican_BuffBody_NoButtA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_SouthAmerican_MediumBody_NoButtA"/>
+			<m_ObjectName text="Male_SouthAmerican_MediumBody_NoButtA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Khopesh_Armor"/>
+			<m_ObjectName text="Khopesh_Armor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Egyptian_HatA"/>
+			<m_ObjectName text="Egyptian_HatA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_MiddleEastern_MediumBody_ThinLegsA"/>
+			<m_ObjectName text="Male_MiddleEastern_MediumBody_ThinLegsA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Amazon_ArmorA"/>
+			<m_ObjectName text="Amazon_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Amazon_ShieldA"/>
+			<m_ObjectName text="Amazon_ShieldA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PlateMailCatapultOperatorA"/>
+			<m_ObjectName text="PlateMailCatapultOperatorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="NoPack_CamelA"/>
+			<m_ObjectName text="NoPack_CamelA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Conquistador_HelmA"/>
+			<m_ObjectName text="Conquistador_HelmA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Landsknecht_HatA"/>
+			<m_ObjectName text="Landsknecht_HatA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Landsknecht_HatB"/>
+			<m_ObjectName text="Landsknecht_HatB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Landsknecht_Armor_A"/>
+			<m_ObjectName text="Landsknecht_Armor_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Landsknecht_Armor_B"/>
+			<m_ObjectName text="Landsknecht_Armor_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Persian_Face_Helm_A"/>
+			<m_ObjectName text="Persian_Face_Helm_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Persian_Face_Helm_B"/>
+			<m_ObjectName text="Persian_Face_Helm_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Persian_Face_Helm_C"/>
+			<m_ObjectName text="Persian_Face_Helm_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Persian_Face_Helm_D"/>
+			<m_ObjectName text="Persian_Face_Helm_D"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

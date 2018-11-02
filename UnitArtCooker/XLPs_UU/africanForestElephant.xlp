@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/africanForestElephant"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="AfricanForestElephant"/>
+			<m_ObjectName text="AfricanForestElephant"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantDriver_ArmorA"/>
+			<m_ObjectName text="ElephantDriver_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantRider_ArmorA"/>
+			<m_ObjectName text="ElephantRider_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ElephantRider_ArmorB"/>
+			<m_ObjectName text="ElephantRider_ArmorB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="African_HelmA"/>
+			<m_ObjectName text="African_HelmA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_African_ThinBody_Full_LegsBent"/>
+			<m_ObjectName text="Male_African_ThinBody_Full_LegsBent"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

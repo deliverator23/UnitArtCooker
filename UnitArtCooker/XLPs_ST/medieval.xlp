@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/medieval"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Gendarme_Helm_A"/>
+			<m_ObjectName text="Gendarme_Helm_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Gendarme_Helm_B"/>
+			<m_ObjectName text="Gendarme_Helm_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Gendarme_Helm_C"/>
+			<m_ObjectName text="Gendarme_Helm_C"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>
