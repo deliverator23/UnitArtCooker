@@ -1378,6 +1378,9 @@
     <Content Include="Assets\Berzerker_Swordsman_Armor.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Cataphract_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Cog.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1834,6 +1837,9 @@
     <Content Include="Assets\Persian_Face_Helm_D.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Phalanx_Shield.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\PlateMailBuffHorseman_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1946,6 +1952,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\WarCanoeRetintable.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\WarCart_HelmB.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Behaviors\AH64-Apache.bhv">
@@ -2911,6 +2920,9 @@
     <Content Include="Materials\Ulfhednar_ArmorA.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\U_Sumerian_Phalanx_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Venetian_Galleass_Material.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -2918,6 +2930,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\WarCanoeRetintable.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\WarCart_Rider_Bronze.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\127_Grey_Gloss.dds">

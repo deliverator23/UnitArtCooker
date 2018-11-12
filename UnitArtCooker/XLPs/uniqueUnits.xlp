@@ -10,6 +10,14 @@
 	<m_PackageName text="units/uniqueUnits"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="Phalanx_Shield"/>
+			<m_ObjectName text="Phalanx_Shield"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WarCart_HelmB"/>
+			<m_ObjectName text="WarCart_HelmB"/>
+		</Element>
+		<Element>
 			<m_EntryID text="PlateMailWarrior_ArmorA"/>
 			<m_ObjectName text="PlateMailWarrior_ArmorA"/>
 		</Element>
