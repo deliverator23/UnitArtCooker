@@ -261,6 +261,212 @@
 			<m_EntryID text="Persian_Face_Helm_D"/>
 			<m_ObjectName text="Persian_Face_Helm_D"/>
 		</Element>
+		<!-- Haida -->
+		<Element>
+			<m_EntryID text="Tribal_Class"/>
+			<m_ObjectName text="Tribal_Class"/>
+		</Element>
+		<!-- Ship of the Line (Kronan) -->
+        <Element>
+			<m_EntryID text="ShipoftheLine"/>
+			<m_ObjectName text="ShipoftheLine"/>
+		</Element>
+        <Element>
+			<m_EntryID text="ShipoftheLineFlag"/>
+			<m_ObjectName text="ShipoftheLineFlag"/>
+		</Element>
+		<!-- Kalandozo -->
+		<Element>
+			<m_EntryID text="Eastern_Euro_HorseArcher_HorseArmorA"/>
+			<m_ObjectName text="Eastern_Euro_HorseArcher_HorseArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Eastern_Euro_Horse_Archer_ArmorA"/>
+			<m_ObjectName text="Eastern_Euro_Horse_Archer_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Horse_Medium_Mane_D"/>
+			<m_ObjectName text="Horse_Medium_Mane_D"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Eastern_Euro_Horse_Archer_HelmA"/>
+			<m_ObjectName text="Eastern_Euro_Horse_Archer_HelmA"/>
+		</Element>
+		<!-- Numidian Cavalry -->
+		<Element>
+			<m_EntryID text="JavelinHorseman_ArmorA"/>
+			<m_ObjectName text="JavelinHorseman_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_MiddleEastern_BuffBody_FullFeetA"/>
+			<m_ObjectName text="Male_MiddleEastern_BuffBody_FullFeetA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Empty_HorseArmorA"/>
+			<m_ObjectName text="Empty_HorseArmorA"/>
+		</Element>
+		<!-- Tupara -->
+		<Element>
+			<m_EntryID text="Tupara_Shotgun"/>
+			<m_ObjectName text="Tupara_Shotgun"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_Maori_BuffBody_FullFeetA"/>
+			<m_ObjectName text="Male_Maori_BuffBody_FullFeetA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Maori_SkirtA"/>
+			<m_ObjectName text="Maori_SkirtA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_MaoriTattoo_HeadB"/>
+			<m_ObjectName text="Male_MaoriTattoo_HeadB"/>
+		</Element>
+		<!-- Sofa -->
+		<Element>
+			<m_EntryID text="Sofa_ArmorA"/>
+			<m_ObjectName text="Sofa_ArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Turban"/>
+			<m_ObjectName text="Turban"/>
+		</Element>
+		<!-- Longbowman -->
+		<Element>
+			<m_EntryID text="Longbowman_ArmorA"/>
+			<m_ObjectName text="Longbowman_ArmorA"/>
+		</Element>
+		<!-- Templar -->
+		<Element>
+			<m_EntryID text="Crusader_Helmet_A"/>
+			<m_ObjectName text="Crusader_Helmet_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_B"/>
+			<m_ObjectName text="Crusader_Helmet_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_C"/>
+			<m_ObjectName text="Crusader_Helmet_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_D"/>
+			<m_ObjectName text="Crusader_Helmet_D"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_E"/>
+			<m_ObjectName text="Crusader_Helmet_E"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_F"/>
+			<m_ObjectName text="Crusader_Helmet_F"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Crusader_Helmet_G"/>
+			<m_ObjectName text="Crusader_Helmet_G"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Full_Cross_A"/>
+			<m_ObjectName text="Heater_Shield_Full_Cross_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Full_Cross_C"/>
+			<m_ObjectName text="Heater_Shield_Full_Cross_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Jerusalem_D"/>
+			<m_ObjectName text="Heater_Shield_Jerusalem_D"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Jerusalem_E"/>
+			<m_ObjectName text="Heater_Shield_Jerusalem_E"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Moline_A"/>
+			<m_ObjectName text="Heater_Shield_Moline_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Moline_B"/>
+			<m_ObjectName text="Heater_Shield_Moline_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Pattee_A"/>
+			<m_ObjectName text="Heater_Shield_Pattee_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Pattee_B"/>
+			<m_ObjectName text="Heater_Shield_Pattee_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Pattee_C"/>
+			<m_ObjectName text="Heater_Shield_Pattee_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Pattee_D"/>
+			<m_ObjectName text="Heater_Shield_Pattee_D"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_StJohn_A"/>
+			<m_ObjectName text="Heater_Shield_StJohn_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_StJohn_B"/>
+			<m_ObjectName text="Heater_Shield_StJohn_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_StJohn_C"/>
+			<m_ObjectName text="Heater_Shield_StJohn_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Templar_Swordsman_Armor_A"/>
+			<m_ObjectName text="Templar_Swordsman_Armor_A"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Templar_Swordsman_Armor_B"/>
+			<m_ObjectName text="Templar_Swordsman_Armor_B"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Templar_Swordsman_Armor_C"/>
+			<m_ObjectName text="Templar_Swordsman_Armor_C"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_Caucasian_HeadQ"/>
+			<m_ObjectName text="Male_Caucasian_HeadQ"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_Caucasian_HeadR"/>
+			<m_ObjectName text="Male_Caucasian_HeadR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_Caucasian_HeadS"/>
+			<m_ObjectName text="Male_Caucasian_HeadS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_Caucasian_HeadT"/>
+			<m_ObjectName text="Male_Caucasian_HeadT"/>
+		</Element>
+		<!-- Chasqui -->
+		<Element>
+			<m_EntryID text="Chasqui_Armor"/>
+			<m_ObjectName text="Chasqui_Armor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Chasqui_Weapon"/>
+			<m_ObjectName text="Chasqui_Weapon"/>
+		</Element>
+		<!-- Sipahi -->
+		<Element>
+			<m_EntryID text="Sipahi_Armor"/>
+			<m_ObjectName text="Sipahi_Armor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Sipahi_HorseArmor"/>
+			<m_ObjectName text="Sipahi_HorseArmor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Sipahi_Spear"/>
+			<m_ObjectName text="Sipahi_Spear"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

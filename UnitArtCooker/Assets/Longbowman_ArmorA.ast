@@ -103,13 +103,27 @@
 		<m_ModelInstances>
 			<Element>
 				<m_Name text="Root"/>
-				<m_GeoName text="Crossbowman_ArmorB"/>
+				<m_GeoName text="Longbowman_ArmorA"/>
 				<m_GroupStates>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects::ObjectValue">
-									<m_ObjectName text="Crossbowman"/>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="Archer_Material1"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Archer_Material1"/>
+						<m_MeshName text="Archer_ArmorAShape"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="WhiteRed_Longbowman"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
@@ -146,4 +160,3 @@
 	<m_Groups/>
 </AssetObjects::AssetInstance>
 
- 

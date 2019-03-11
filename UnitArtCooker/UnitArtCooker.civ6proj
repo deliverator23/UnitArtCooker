@@ -17,6 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>UnitArtCooker</AssemblyName>
     <RootNamespace>UnitArtCooker</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="unitArtDB"><File>Data/Units.sql</File></UpdateDatabase><UpdateArt id="unitArtArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -143,6 +144,186 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\cargo_ship_middle_victory.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_center.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_center.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_left.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_left.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_right.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_aim_right.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_antiair_attack.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_antiair_attack.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_attacka.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_attacka.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_attackb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_attackb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_bombard_defense_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_combat_ready_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deatha.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deatha.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deatha_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deatha_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deathb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deathb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deathb_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_deathb_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fidgeta.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fidgeta.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fidgetb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fidgetb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_fidget.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_fidget.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_trans_combat_ready_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_trans_combat_ready_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_fortify_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idlea_trans_idleb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idlea_trans_idleb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idleb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idleb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idleb_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_idleb_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_run.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_run.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_stop_run.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_stop_run.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_victory.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\destroyer_victory.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\galleass_attacka.anm">
@@ -509,6 +690,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\Longsword_Idle_anim.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Peltast_Throw.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Peltast_Throw.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Skirt_Throw.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Skirt_Throw.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\trebuchet_attacka.anm">
@@ -1363,6 +1556,9 @@
     <Content Include="Assets\Bandeirante_Armor.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Beret_A.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Berserker_HelmA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1381,6 +1577,12 @@
     <Content Include="Assets\Cataphract_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Chasqui_Armor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Chasqui_Weapon.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Cog.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1390,10 +1592,40 @@
     <Content Include="Assets\Conquistador_HelmA.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Crusader_Helmet_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_B.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_C.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_D.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_E.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_F.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Crusader_Helmet_G.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Cuirassier_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Cuirassier_Helm_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Eastern_Euro_HorseArcher_HorseArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Eastern_Euro_Horse_Archer_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Eastern_Euro_Horse_Archer_HelmA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Egyptian_HatA.ast">
@@ -1406,6 +1638,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\ElephantRider_ArmorB.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Empty_HorseArmorA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\France_Heater_Shield_01.ast">
@@ -1543,7 +1778,52 @@
     <Content Include="Assets\HeadbandB.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Heater_Shield_Full_Cross_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Full_Cross_C.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Jerusalem_D.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Jerusalem_E.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Moline_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Moline_B.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Pattee_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Pattee_B.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Pattee_C.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_Pattee_D.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_StJohn_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_StJohn_B.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Heater_Shield_StJohn_C.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\JavelinHorseman_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Horseman_Cloak_Doublesided.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Horse_Medium_Mane_D.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Indo_Shield.ast">
@@ -1667,6 +1947,27 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Male_African_ThinBody_Full_LegsBent.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_Caucasian_HeadQ.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_Caucasian_HeadR.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_Caucasian_HeadS.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_Caucasian_HeadT.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_MaoriTattoo_HeadB.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_Maori_BuffBody_FullFeetA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Male_MiddleEastern_BuffBody_FullFeetA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Male_MiddleEastern_MediumBody_ThinLegsA.ast">
@@ -1915,13 +2216,46 @@
     <Content Include="Assets\Septireme.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\ShipoftheLine.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\ShipoftheLineFlag.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Simple_Amulet.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sipahi_Armor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sipahi_HorseArmor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sipahi_Spear.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Maori_SkirtA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sofa_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Spearman_European_HelmD.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Sweden_Ship.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\T34_Tank.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Templar_Swordsman_Armor_A.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Templar_Swordsman_Armor_B.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Templar_Swordsman_Armor_C.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Tomahawk_A.ast">
@@ -1930,7 +2264,16 @@
     <Content Include="Assets\Trebuchet.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Tribal_Class.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Tricorn_Hat.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Tupara_Shotgun.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Turban.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Ulfhednar_Berzerker_Armor.ast">
@@ -1960,6 +2303,9 @@
     <Content Include="Behaviors\AH64-Apache.bhv">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Behaviors\FootTemplar.bhv">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Behaviors\ModernInfantry.bhv">
       <SubType>Content</SubType>
     </Content>
@@ -1970,6 +2316,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Behaviors\Woomera.bhv">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Units.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\AfricanForestElephant.fgx">
@@ -1994,6 +2343,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Amazon_Armor.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Beret_A.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Beret_A.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Berserker_HatA.fgx">
@@ -2036,6 +2391,54 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Conquistador_HatA.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Cossack_HorseArcher_ArmorA.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Cossack_HorseArcher_ArmorA.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_A.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_A.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_B.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_B.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_C.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_C.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_D.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_D.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_E.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_E.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_F.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_F.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_G.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Crusader_Helmet_G.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Egyptian_HatA.fgx">
@@ -2110,10 +2513,22 @@
     <Content Include="Geometries\Heater_Shield_Diagonal_49_5.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\HorsemanBuilder_ArmorA.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\HorsemanBuilder_ArmorA.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\Horseman_Cloak_Doublesided.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Horseman_Cloak_Doublesided.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Horse_Medium_Mane_D.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Horse_Medium_Mane_D.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Indo_Shield.fgx">
@@ -2150,6 +2565,24 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Kite_ShieldB.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_Armor.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_Armor.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_Armor2.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_Armor2.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_HorseArmor.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Knight_Light_HorseArmor.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Kris.fgx">
@@ -2272,6 +2705,12 @@
     <Content Include="Geometries\Macedon_HelmA.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\Male_Caucasian_BuffBody_FullFeetA.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_BuffBody_FullFeetA.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\Male_Caucasian_BuffBody_NoButtA.fgx">
       <SubType>Content</SubType>
     </Content>
@@ -2282,6 +2721,30 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Male_Caucasian_BuffBody_UpperA.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadQ.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadQ.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadR.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadR.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadS.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadS.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadT.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Male_Caucasian_HeadT.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Male_Caucasian_MediumBody_NoButtA.fgx">
@@ -2428,6 +2891,18 @@
     <Content Include="Geometries\Peltast_ShieldA.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\Persian_Face_Helm_Set.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Persian_Face_Helm_Set.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Phalanx_Shield.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Phalanx_Shield.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\PlateMailBuffHorseman_ArmorA.fgx">
       <SubType>Content</SubType>
     </Content>
@@ -2470,6 +2945,12 @@
     <Content Include="Geometries\Sabre.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\Saka_HorseArmorB.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Saka_HorseArmorB.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\Saka_Horseman_Rerig.fgx">
       <SubType>Content</SubType>
     </Content>
@@ -2480,6 +2961,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\SelfPropelledGun.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ShipOfTheLine_Flags.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ShipOfTheLine_Flags.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ShipOfTheLine_FlagsSails.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ShipOfTheLine_FlagsSails.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Simple_Amulet.fgx">
@@ -2524,10 +3017,28 @@
     <Content Include="Geometries\trebuchet.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\Tribal_Class.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Tribal_Class.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\Tricorn_Hat.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\Tricorn_Hat.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Tupara_Shotgun.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Tupara_Shotgun.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\u_english_shipoftheline.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\u_english_shipoftheline.geo">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\u_indonesian_kris_swordsman.fgx">
@@ -2581,6 +3092,9 @@
     <Content Include="Materials\BallistaOpArmor_Material.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\BaseMale_Maori_Tattoo_Material.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\BaseMale_NativeAmerican_Material.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -2590,13 +3104,37 @@
     <Content Include="Materials\Black_Tricorn.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Builder_Ancient_NoBags.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Chasqui_Weapon.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Cog.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Comanche.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Crusader_Helmet_1.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Crusader_Helmet_2.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Crusader_Helmet_3.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Crusader_Helmet_4.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Crusader_HorseArmor_Material.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Cuirassier.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Eastern_Euro_Horse_Archer.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\France_Heater_Shield_01.mtl">
@@ -2713,6 +3251,45 @@
     <Content Include="Materials\Georgian_KiteShieldD.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Heater_Shield_FullCross_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_FullCross_C.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Jerusalem_D.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Jerusalem_E.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Moline_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Moline_B.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Pattee_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Pattee_B.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Pattee_C.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_Pattee_D.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_StJohn_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_StJohn_B.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Heater_Shield_StJohn_C.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Indo_ShieldA.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -2732,6 +3309,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Kite_ShieldB.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Knight_Armor_NoTint.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Knight_Var_Material_NoTint.mtl">
@@ -2771,6 +3351,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Mamluk_MoreTint.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Maori_Skirt.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\MapucheClothingA.mtl">
@@ -2839,6 +3422,9 @@
     <Content Include="Materials\Panzer_VI_Material.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Paratrooper_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Peltast_HatA.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -2902,16 +3488,49 @@
     <Content Include="Materials\Russian_KiteShieldD.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Sails_Sweden.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\SelfPropelledArtillery.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Septireme_Sails.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\ShipOfTheLine_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sipahi_Material.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sofa.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Swedish_Crest_Sails.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\T34_Material.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Templar_Armor_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Templar_Armor_B.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Templar_Armor_C.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\TintableTurban.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Trebuchet.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tribal_Class.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tupara.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TurtleShipMaterial.mtl">
@@ -2933,6 +3552,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\WarCart_Rider_Bronze.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\WhiteRed_Longbowman.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\127_Grey_Gloss.dds">
@@ -3517,6 +4139,24 @@
     <Content Include="Textures\Heater_Shield_normal.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\HMCS_Haida_ao.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HMCS_Haida_ao.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HMCS_Haida_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HMCS_Haida_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HMCS_Haida_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HMCS_Haida_g.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\HopliteDesat_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -3727,10 +4367,40 @@
     <Content Include="Textures\Kris_Swordsman_m5.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Landsknecht_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_g.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Landsknecht_HatA.dds">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Landsknecht_HatA.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_HatB.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_HatB.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_m.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_m.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MacedonShieldA_a.dds">
@@ -3833,6 +4503,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\mamluk_retint_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Man_of_War_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Man_of_War_b.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MapucheClothingA_a.dds">
@@ -4192,6 +4868,24 @@
     <Content Include="Textures\PersianSail_m.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\persian_nobles.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\persian_nobles.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\persian_nobles2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\persian_nobles2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\persian_nobles_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\persian_nobles_n.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Pikemen_Var_Desat_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4408,6 +5102,12 @@
     <Content Include="Textures\Russia_Kite_D.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Sail_Sweden_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_Sweden_a.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\SPGun_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4528,6 +5228,54 @@
     <Content Include="Textures\trebuchet_a2.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Tribal_Class_Baked_AO_128_L190.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Baked_AO_128_L190.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_b.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_br-15_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_br-15_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_br-40_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_Rough_512x256_br-40_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_rough_AO.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tribal_Class_rough_AO.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class_b.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class_b.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Triba_Class_g.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\TS_WarCanoe_d.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4621,6 +5369,36 @@
     <Content Include="Textures\Untitled88D589DF26ED76F8.dds">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\u_english_shipoftheline_diff.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_diff.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_diff_t.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_diff_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_dmg_diff.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_dmg_diff.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_dmg_diff_t.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_dmg_diff_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_sref.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_english_shipoftheline_sref.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\u_shoshone_comanche_riders_diff.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4631,6 +5409,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\u_shoshone_comanche_riders_diff_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_sumerian_phalanx_diff.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_sumerian_phalanx_diff.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_sumerian_phalanx_diff_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\u_sumerian_phalanx_diff_t.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\u_venetian_galeass_g.dds">
@@ -4699,6 +5489,12 @@
     <Content Include="Textures\WarCanoe_var3_a.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\WarCart_Rider_a_Bronze.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\WarCart_Rider_a_Bronze.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\white512.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4729,6 +5525,7 @@
     <Folder Include="ArtDefs\" />
     <Folder Include="Assets\" />
     <Folder Include="Behaviors\" />
+    <Folder Include="Data\" />
     <Folder Include="Geometries\" />
     <Folder Include="Materials\" />
     <Folder Include="ParticleEffects\" />

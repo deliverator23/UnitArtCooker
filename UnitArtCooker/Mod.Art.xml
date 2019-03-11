@@ -580,6 +580,7 @@
 				<Element text="units/modernInfantry2"/>
 				<Element text="units/mortar"/>
 				<Element text="units/self_propelled_artillery"/>
+				<Element text="units/ships"/>				
 				<Element text="units/trebuchet"/>
 				
 				<!-- Unique Units -->
@@ -604,7 +605,8 @@
 				<Element text="units/roundShields"/>
 				<Element text="units/septireme"/>
 				<Element text="units/tanks"/>
-				<Element text="units/ulfhednar"/> 				
+				<Element text="units/ulfhednar"/>
+				<Element text="units/uniqueUnits"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
