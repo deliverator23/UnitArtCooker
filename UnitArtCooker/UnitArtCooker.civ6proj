@@ -1772,6 +1772,15 @@
     <Content Include="Assets\Georgian_KiteShieldD.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Hakkapeliitta_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hakka_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hakka_Helmet.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\HeadbandA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -2235,6 +2244,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Maori_SkirtA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Skirt_Ranger_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Sofa_ArmorA.ast">
@@ -3251,6 +3263,12 @@
     <Content Include="Materials\Georgian_KiteShieldD.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Hakkapeliitta.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Hakka_TopArmor_A.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Heater_Shield_FullCross_A.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -3665,6 +3683,12 @@
     <Content Include="Textures\BallistaOp_AO.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\BaseMale_Maori_Tattoo_a.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\BaseMale_Maori_Tattoo_a.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\BaseMale_NativeAmerican_a_3.dds">
       <SubType>Content</SubType>
     </Content>
@@ -3722,6 +3746,18 @@
     <Content Include="Textures\black_tricorn.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Builder_Ancient_Full_Tint_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Builder_Ancient_Full_Tint_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Builder_Ancient_NoBags_ao.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Builder_Ancient_NoBags_ao.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\cargo_ship_middle_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -3732,6 +3768,60 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\cargo_ship_middle_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Chasqui_Weapon_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Chasqui_Weapon_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_1_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_1_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_1_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_1_n.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_2_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_2_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_2_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_2_n.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_3_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_3_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_3_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_3_n.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_4_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_4_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_4_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Crusader_Helms_4_n.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Cuirassier_a.dds">
@@ -3768,6 +3858,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Cuirassier_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CVS_Mandekalu_Helm_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CVS_Mandekalu_Helm_t.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\flat512.dds">
@@ -4175,6 +4271,51 @@
     <Content Include="Textures\Hoplite_NoShade_aVib.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Hospitaller_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Armor_C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Armor_C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_D.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Hospitaller_Horse_Armor_D.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\inca_quechua_weapons.dds">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Indo_ShieldA_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4277,6 +4418,30 @@
     <Content Include="Textures\Ironside_TopArmor_n.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Jerusalem_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Horse_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Horse_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Horse_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Jerusalem_Horse_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Kite_ShieldA.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4287,6 +4452,60 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Kite_ShieldB.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_ao.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_ao.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_g.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_n.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_Armor_Plain_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Crusader_Base.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Crusader_Base.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_g.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Knight_HorseArmor_Plain_t.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Kris_Swordsman_a.dds">
@@ -4365,6 +4584,66 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Kris_Swordsman_m5.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_ao_v2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_ao_v2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_ao_v3.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_ao_v3.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a_v2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a_v2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a_v3.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_a_v3.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_Blue_Crest_b1.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_Blue_Crest_b1.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_g.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_g2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_g2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_m.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_m.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_m2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_m2.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Landsknecht_a.dds">
@@ -4511,6 +4790,12 @@
     <Content Include="Textures\Man_of_War_b.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Maori_Skirt_a.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Maori_Skirt_a.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\MapucheClothingA_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4563,6 +4848,108 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Metal_Gloss.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Full Cross A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Full Cross A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Full Cross C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Full Cross C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem D.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem D.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem E.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem E.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem Gloss F.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem Gloss F.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem Metalness 80.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Jerusalem Metalness 80.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Moline A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Moline A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Moline B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Moline B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee D.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee D.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee Gloss F.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee Gloss F.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee Metalness 80.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - Pattee Metalness 80.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOAR Shields - St John C.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MOARUnitsFlagsMACEDONPERSIA_22X.dds">
@@ -4838,6 +5225,18 @@
     <Content Include="Textures\Panzer_VI_TintMask.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\paratrooper_diff_256_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\paratrooper_diff_256_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\paratrooper_diff_t_256.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\paratrooper_diff_t_256.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\PeltastMak_a_tweak.dds">
       <SubType>Content</SubType>
     </Content>
@@ -4926,6 +5325,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\PlateMail_ArmorA_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\polynesian_warrior_diff.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\polynesian_warrior_diff.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\polynesian_warrior_diff_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\polynesian_warrior_diff_t.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Ptolemaic_Sail_a.dds">
@@ -5102,10 +5513,58 @@
     <Content Include="Textures\Russia_Kite_D.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_g.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_m.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_m.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sail_GreatCoat_Sweden_t.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Sail_Sweden_a.dds">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Sail_Sweden_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sipahi_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sipahi_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sipahi_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sipahi_t.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sofa_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sofa_a.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\SPGun_a.dds">
@@ -5204,6 +5663,48 @@
     <Content Include="Textures\T34_TintMask2_Texture.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Templar_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Armor_C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Armor_C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_A.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_A.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_C.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_C.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_D.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_Horse_Armor_D.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\thracepelta.dds">
       <SubType>Content</SubType>
     </Content>
@@ -5214,6 +5715,24 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\thracepelta_n.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_a2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_a2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_t.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tintable_Cossack_t.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\trebuchet_a.dds">
@@ -5348,6 +5867,30 @@
     <Content Include="Textures\TS_WarCanoe_t4.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Tupara_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_a.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_ao.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_ao.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_g.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_g.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_n.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_n.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Turtle_Ship_a.dds">
       <SubType>Content</SubType>
     </Content>
@@ -5358,15 +5901,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Ulfhednar_Armor_a.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Untitled.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Untitled88D582A2B2404A0C.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Untitled88D589DF26ED76F8.dds">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\u_english_shipoftheline_diff.DDS">
@@ -5496,6 +6030,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\white512.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\WhiteRed_Longbowman_a.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\WhiteRed_Longbowman_a.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\White_AO.dds">
