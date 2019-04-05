@@ -29,28 +29,28 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="Base_Male_Material"/>
+								<Element class="AssetObjects::ObjectValue">
+									<m_ObjectName text="BaseMale_MiddleEastern"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Base_Male_Material"/>
+						<m_GroupName text="BaseMale_Caucasian_Material"/>
 						<m_MeshName text="Male_BuffBody_FullAShape"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="Base_Male_Material"/>
+								<Element class="AssetObjects::ObjectValue">
+									<m_ObjectName text="BaseMale_MiddleEastern"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Base_Male_Material.001"/>
+						<m_GroupName text="BaseMale_Caucasian_Material.001"/>
 						<m_MeshName text="Male_BuffBody_TorsoAShape"/>
 						<m_StateName text="Default"/>
 					</Element>
