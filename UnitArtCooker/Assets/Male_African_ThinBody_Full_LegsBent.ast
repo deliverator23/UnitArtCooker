@@ -30,7 +30,7 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="BaseMale_African_Material"/>
+									<m_ObjectName text="BaseMale_African"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>

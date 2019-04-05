@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::AssetInstance>
+<AssetObjects..AssetInstance>
 	<m_BehaviorData>
 		<m_behaviorDataSets>
 			<m_animationBindings>
@@ -28,7 +28,7 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects::ObjectValue">
+								<Element class="AssetObjects..ObjectValue">
 									<m_ObjectName text="Swordsman_Material"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
@@ -42,7 +42,7 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects::ObjectValue">
+								<Element class="AssetObjects..ObjectValue">
 									<m_ObjectName text="Heater_Shield_FullCross_C"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
@@ -78,5 +78,5 @@
 		<Element text="Unit"/>
 	</m_Tags>
 	<m_Groups/>
-</AssetObjects::AssetInstance>
+</AssetObjects..AssetInstance>
 

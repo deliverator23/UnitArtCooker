@@ -2,17 +2,17 @@
 <AssetObjects::MaterialInstance>
 	<m_CookParams>
 		<m_Values>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="France_Heater_Shield_20"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Heater_Shield_normal"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Normal"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Heater_Shield_AO"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
@@ -21,17 +21,17 @@
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Black_Metalness"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text=""/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="TintMask"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Heater_Shield_gloss"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>

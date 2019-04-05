@@ -300,7 +300,7 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects::ObjectValue">
+								<Element class="AssetObjects..ObjectValue">
 									<m_ObjectName text="HorsemanA"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
@@ -314,7 +314,7 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects::ObjectValue">
+								<Element class="AssetObjects..ObjectValue">
 									<m_ObjectName text="NativeAmericanA"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>

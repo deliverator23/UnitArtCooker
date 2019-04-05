@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects::GameArtSpecification>
+	<id>
+		<name text="UnitArtCooker"/>
+		<id text="666af978-c3c5-447e-9b39-a9001b7c3335"/>
+	</id>
 	<artConsumers>
 		<Element>
 			<consumerName text="Units"/>
@@ -17,7 +21,6 @@
 		<Element>
 			<consumerName text="Clutter"/>
 			<relativeArtDefPaths>
-				<Element text="Clutter.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Landmark"/>
@@ -571,50 +574,12 @@
 		<Element>
 			<libraryName text="Unit"/>
 			<relativePackagePaths>
-				<!-- Steel & Thunder -->
-				<Element text="units/armoredHorseman2"/>
-				<Element text="units/cuirassier"/>
-				<Element text="units/gatling_gun"/>
-				<Element text="units/longswordsman"/>
-				<Element text="units/medieval"/>
-				<Element text="units/modernInfantry2"/>
-				<Element text="units/mortar"/>
-				<Element text="units/self_propelled_artillery"/>
-				<Element text="units/ships"/>				
-				<Element text="units/trebuchet"/>
-				
-				<!-- Unique Units -->
-				<Element text="units/aborigine"/>
-				<Element text="units/accessories"/>
-				<Element text="units/africanForestElephant"/>
-				<Element text="units/apache"/>
-				<Element text="units/armoredHorseman"/>
-				<Element text="units/ballista"/>
-				<Element text="units/bandeirante"/>
-				<Element text="units/cataphract"/>
-				<Element text="units/gendarme"/>
-				<Element text="units/ironside"/>
-				<Element text="units/lancer"/>
-				<Element text="units/longbowman"/>
-				<Element text="units/modernInfantry"/>		
-				<Element text="units/nativeAmerican"/>
-				<Element text="units/peltast"/>
-				<Element text="units/persianWarship"/>
-				<Element text="units/pezhetairos"/>
-				<Element text="units/rifleman"/>
-				<Element text="units/roundShields"/>
-				<Element text="units/septireme"/>
-				<Element text="units/tanks"/>
-				<Element text="units/ulfhednar"/>
 				<Element text="units/uniqueUnits"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
 			<libraryName text="VFX"/>
 			<relativePackagePaths>
-				<Element text="ballistaVFX"/>
-				<Element text="trebuchetVFX"/>
-				<Element text="spearVFX"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

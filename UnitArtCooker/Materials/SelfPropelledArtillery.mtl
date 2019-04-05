@@ -7,12 +7,12 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Flat_Normal"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Normal"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="SPGun_ao"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
@@ -21,7 +21,7 @@
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="Black_Metalness"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
@@ -31,7 +31,7 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="TintMask"/>
 			</Element>
-			<Element class="AssetObjects::ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="127_Grey_Gloss"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>

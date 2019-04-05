@@ -105,13 +105,13 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="BaseMale_MiddleEastern_Material"/>
+									<m_ObjectName text="Base_Male_Material"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="BaseMale_Caucasian_Material"/>
+						<m_GroupName text="Base_Male_Material"/>
 						<m_MeshName text="Male_MediumBody_FullAShape#M"/>
 						<m_StateName text="Default"/>
 					</Element>

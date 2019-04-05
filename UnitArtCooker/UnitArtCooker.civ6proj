@@ -1526,12 +1526,6 @@
     <Content Include="Animations\u_venetian_galleass_victory.fgx">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ArtDefs\Units.artdef">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="ArtDefs\Unit_Bins.artdef">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Assets\AborigineSlinger_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1545,6 +1539,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Amazon_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Amazon_ShieldA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\ArmoredHorseman_ArmorA.ast">
@@ -1583,10 +1580,10 @@
     <Content Include="Assets\Chasqui_Weapon.ast">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\Cog.ast">
+    <Content Include="Assets\ClaymoreA.ast">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\ClaymoreA.ast">
+    <Content Include="Assets\Cog.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Conquistador_HelmA.ast">
@@ -1724,18 +1721,6 @@
     <Content Include="Assets\France_Heater_Shield_27.ast">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\FXm_Spear.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Ballista_Arrow_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Ballista_Fire_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Trebuchet_Fire_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Assets\Galleass.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1826,9 +1811,6 @@
     <Content Include="Assets\Heater_Shield_StJohn_C.ast">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\JavelinHorseman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Assets\Horseman_Cloak_Doublesided.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1859,6 +1841,9 @@
     <Content Include="Assets\Ironside_HorseArmor_A.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\JavelinHorseman_ArmorA.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Jeep_Infantry.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1872,9 +1857,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\KnightWarrior_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Amazon_ShieldA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Kris.ast">
@@ -2007,6 +1989,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Mamluk_HorseArmorMoreTint.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Maori_SkirtA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Mapuche_Archer_ArmorA.ast">
@@ -2241,9 +2226,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Sipahi_Spear.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Maori_SkirtA.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Skirt_Ranger_ArmorA.ast">
@@ -4842,12 +4824,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MapucheClothingB_t.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Metal_Gloss.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Metal_Gloss.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MOAR Shields - Full Cross A.dds">
