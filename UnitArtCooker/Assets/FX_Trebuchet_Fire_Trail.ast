@@ -88,7 +88,7 @@
 	<m_Materials/>
 	<m_ClassName text="VFX"/>
 	<m_DataFiles/>
-	<m_Name text="FX_Ballista_Fire_Trail"/>
+	<m_Name text="FX_Trebuchet_Fire_Trail"/>
 	<m_Description text=""/>
 	<m_Tags>
 		<Element text="VFX"/>

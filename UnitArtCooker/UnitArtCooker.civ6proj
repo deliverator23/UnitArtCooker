@@ -3086,10 +3086,22 @@
     <Content Include="Materials\BallistaOpArmor_Material.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\BaseMale_African.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BaseMale_Caucasian.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\BaseMale_Maori_Tattoo_Material.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\BaseMale_MiddleEastern.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\BaseMale_NativeAmerican_Material.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BaseMale_SouthAmerican.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Berzerker_Variant.mtl">
