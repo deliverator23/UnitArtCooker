@@ -1526,6 +1526,12 @@
     <Content Include="Animations\u_venetian_galleass_victory.fgx">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="ArtDefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Unit_Bins.artdef">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\AborigineSlinger_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -1719,6 +1725,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\France_Heater_Shield_27.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\FXm_Spear.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\FX_Ballista_Arrow_Trail.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\FX_Ballista_Fire_Trail.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\FX_Trebuchet_Fire_Trail.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Galleass.ast">
