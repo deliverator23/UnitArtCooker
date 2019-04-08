@@ -36,7 +36,7 @@
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Base_Male_Material"/>
+						<m_GroupName text="BaseMale_Caucasian_Material"/>
 						<m_MeshName text="Male_BuffBody_TorsoAShape#M"/>
 						<m_StateName text="Default"/>
 					</Element>
