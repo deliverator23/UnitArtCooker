@@ -3,7 +3,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Kronan_a_v3"/>
+				<m_ObjectName text="English_SotL_a"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
@@ -22,7 +22,7 @@
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Kronan_m2"/>
+				<m_ObjectName text="English_SotL_m"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
 			</Element>
@@ -32,7 +32,7 @@
 				<m_ParamName text="TintMask"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Kronan_g2"/>
+				<m_ObjectName text="English_SotL_g"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>
 			</Element>
