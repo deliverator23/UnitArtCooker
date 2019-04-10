@@ -3161,6 +3161,9 @@
     <Content Include="Materials\Eastern_Euro_Horse_Archer.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\England_Crest_Sails.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\France_Heater_Shield_01.mtl">
       <SubType>Content</SubType>
     </Content>

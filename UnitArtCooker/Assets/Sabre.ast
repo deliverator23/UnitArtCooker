@@ -20,31 +20,30 @@
 		<m_dsgName text="potential_any_graph"/>
 		<m_referenceGeometryNames/>
 	</m_BehaviorData>
-<m_GeometrySet>
-<m_ModelInstances>
-<Element>
-<m_Name text="Swordsman_SouthAmerican_SwordA"/>
-<m_GeoName text="Sabre"/>
-<m_GroupStates>
-<Element>
-<m_Values>
-<m_Values>
-<Element class="AssetObjects..ObjectValue">
-<m_ObjectName text="Swordsman_Var_Material"/>
-<m_eObjectType>MATERIAL</m_eObjectType>
-<m_ParamName text="Material"/>
-</Element>
-</m_Values>
-</m_Values>
-<m_GroupName text="Swordsman_Var_Material"/>
-<m_MeshName text="Swordsman_SouthAmerican_SwordAShape#M"/>
-<m_StateName text="Default"/>
-</Element>
-</m_GroupStates>
-</Element>
-</m_ModelInstances>
-</m_GeometrySet>
-
+	<m_GeometrySet>
+		<m_ModelInstances>
+			<Element>
+				<m_Name text="Cavalry_Saber_A"/>
+				<m_GeoName text="Cavalry_Saber_A"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="Cavalry_Material"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Cavalry_Material"/>
+						<m_MeshName text="Cavalry_Saber_AShape"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+		</m_ModelInstances>
+	</m_GeometrySet>
 	<m_CookParams>
 		<m_Values/>
 	</m_CookParams>
