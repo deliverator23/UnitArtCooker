@@ -31,7 +31,7 @@
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
+								<Element class="AssetObjects:ObjectValue">
 									<m_ObjectName text="Ironside_Legs"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
@@ -39,13 +39,13 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Musketman"/>
-						<m_MeshName text="Musketman_ArmorAShape#M"/>
+						<m_MeshName text="Musketman_ArmorAShape"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
+								<Element class="AssetObjects:ObjectValue">
 									<m_ObjectName text="Hakka_TopArmor_A"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
@@ -53,7 +53,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Pikemen"/>
-						<m_MeshName text="Pikemen_European_Armor_AShape#M"/>
+						<m_MeshName text="Pikemen_European_Armor_AShape"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

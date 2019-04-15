@@ -1775,9 +1775,6 @@
     <Content Include="Assets\Georgian_KiteShieldD.ast">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\Hakkapeliitta_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Assets\Hakka_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -2316,6 +2313,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Behaviors\FootTemplar.bhv">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Behaviors\Hakkapeliitta.bhv">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Behaviors\ModernInfantry.bhv">

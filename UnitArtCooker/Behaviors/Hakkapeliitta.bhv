@@ -6,11 +6,11 @@
 				<m_Bindings>
 					<Element>
 						<m_SlotName text="IDLE_A"/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="RUN_A"/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="DODGE_A"/>
@@ -22,39 +22,39 @@
 					</Element>
 					<Element>
 						<m_SlotName text="FORWARD_A"/>
-						<m_AnimationName text="Knight_CombatIdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="DEFEND_A"/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_B"/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_D"/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_C"/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_COMBAT_A"/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_COMBAT_B"/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_COMBAT_C"/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="IDLE_COMBAT_D"/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="SPAWN"/>
@@ -78,7 +78,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="RUN_COMBAT"/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="BREATHING_COMBAT_A"/>
@@ -90,11 +90,11 @@
 					</Element>
 					<Element>
 						<m_SlotName text="ATTACK_A"/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 					</Element>
 					<Element>
 						<m_SlotName text="RUN_COMBAT_STOP"/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="RUN_STOP"/>
@@ -106,7 +106,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="BACKWARD_A"/>
-						<m_AnimationName text="Knight_CombatIdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="DEATH_1"/>
@@ -134,11 +134,11 @@
 					</Element>
 					<Element>
 						<m_SlotName text="ATTACK_1"/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 					</Element>
 					<Element>
 						<m_SlotName text="DEFEND_1"/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 					</Element>
 				</m_Bindings>
 			</m_animationBindings>
@@ -275,7 +275,7 @@
 					<Element>
 						<m_Name text="RUN_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -308,7 +308,7 @@
 					<Element>
 						<m_Name text="FORWARD_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_CombatIdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -341,7 +341,7 @@
 					<Element>
 						<m_Name text="BACKWARD_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_CombatIdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -374,7 +374,7 @@
 					<Element>
 						<m_Name text="IDLE_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -407,7 +407,7 @@
 					<Element>
 						<m_Name text="ATTACK_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
@@ -417,7 +417,7 @@
 								<m_FXName text="FX_Smack_Premult"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="FX_Bone_Lance"/>
-								<m_fStartTime>0.194123</m_fStartTime>
+								<m_fStartTime>0.47</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -718,7 +718,7 @@
 					<Element>
 						<m_Name text="DEFEND_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
@@ -895,7 +895,7 @@
 					<Element>
 						<m_Name text="IDLE_B"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -928,7 +928,7 @@
 					<Element>
 						<m_Name text="IDLE_D"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -961,7 +961,7 @@
 					<Element>
 						<m_Name text="IDLE_C"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1039,7 +1039,7 @@
 					<Element>
 						<m_Name text="IDLE_COMBAT_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1072,7 +1072,7 @@
 					<Element>
 						<m_Name text="IDLE_COMBAT_B"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1105,7 +1105,7 @@
 					<Element>
 						<m_Name text="IDLE_COMBAT_C"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleC"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1138,7 +1138,7 @@
 					<Element>
 						<m_Name text="IDLE_COMBAT_D"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleD"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1171,7 +1171,7 @@
 					<Element>
 						<m_Name text="RUN_COMBAT"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1402,7 +1402,7 @@
 					<Element>
 						<m_Name text="RUN_COMBAT_STOP"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_IdleA"/>
+						<m_AnimationName text="Mounted_Sword_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -1557,7 +1557,7 @@
 					<Element>
 						<m_Name text="ATTACK_1"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Knight_JoustDefendA"/>
+						<m_AnimationName text="Mounted_Sword_AttackA"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
@@ -1567,7 +1567,7 @@
 								<m_FXName text="FX_Smack_Premult"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="FX_Bone_Lance"/>
-								<m_fStartTime>0.194123</m_fStartTime>
+								<m_fStartTime>0.47</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
