@@ -575,12 +575,14 @@
 			<libraryName text="Unit"/>
 			<relativePackagePaths>
 				<Element text="units/uniqueUnits"/>
+				<!-- <Element text="units/unitExpansion"/> -->
 			</relativePackagePaths>
 		</Element>
 		<Element>
 			<libraryName text="VFX"/>
 			<relativePackagePaths>
 				<Element text="units/uniqueUnitsVFX"/>
+				<!-- <Element text="units/unitExpansionVFX"/> -->
 			</relativePackagePaths>
 		</Element>
 		<Element>
