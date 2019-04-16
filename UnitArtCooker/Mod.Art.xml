@@ -580,6 +580,7 @@
 		<Element>
 			<libraryName text="VFX"/>
 			<relativePackagePaths>
+				<Element text="units/uniqueUnitsVFX"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
