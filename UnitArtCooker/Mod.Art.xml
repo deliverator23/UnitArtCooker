@@ -8,8 +8,6 @@
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
-				<Element text="Units.artdef"/>
-				<Element text="Unit_Bins.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Unit"/>
@@ -193,7 +191,6 @@
 		<Element>
 			<consumerName text="VFX"/>
 			<relativeArtDefPaths>
-				<Element text="VFX.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="VFX"/>
@@ -303,8 +300,6 @@
 		<Element>
 			<consumerName text="Audio"/>
 			<relativeArtDefPaths>
-				<Element text="Units.artdef"/>
-				<Element text="Unit_Bins.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -575,14 +570,12 @@
 			<libraryName text="Unit"/>
 			<relativePackagePaths>
 				<Element text="units/uniqueUnits"/>
-				<!-- <Element text="units/unitExpansion"/> -->
 			</relativePackagePaths>
 		</Element>
 		<Element>
 			<libraryName text="VFX"/>
 			<relativePackagePaths>
-				<Element text="units/uniqueUnitsVFX"/>
-				<!-- <Element text="units/unitExpansionVFX"/> -->
+				<Element text="uniqueUnitsVFX"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

@@ -1526,12 +1526,6 @@
     <Content Include="Animations\u_venetian_galleass_victory.fgx">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ArtDefs\Units.artdef">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="ArtDefs\Unit_Bins.artdef">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Assets\AborigineSlinger_ArmorA.ast">
       <SubType>Content</SubType>
     </Content>
@@ -6066,6 +6060,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="XLPs\uniqueUnits.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\uniqueUnitsVFX.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>
