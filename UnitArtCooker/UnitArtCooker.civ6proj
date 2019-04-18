@@ -6059,10 +6059,10 @@
     <Content Include="Textures\White_Metal.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\unitExpansion.xlp">
+    <Content Include="XLPs\uniqueUnits.xlp">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\unitExpansionVFX.xlp">
+    <Content Include="XLPs\uniqueUnitsVFX.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>
