@@ -2693,6 +2693,44 @@
 						<m_ModelInstanceName text="World_BASE"/>
 						<m_scale>1.000000</m_scale>
 					</Element>
+                    <Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0</x>
+							<y>0</y>
+							<z>0</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.0</z>
+						</m_orientation>
+						<m_Name text="FX_Gun_ShellCasing"/>
+						<m_BoneName text="Box02"/>
+						<m_ModelInstanceName text="World_BASE"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0</x>
+							<y>0</y>
+							<z>0</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.0</z>
+						</m_orientation>
+						<m_Name text="Death_Bone"/>
+						<m_BoneName text="box_BARREL"/>
+						<m_ModelInstanceName text="World_BASE"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
 				</m_Points>
 			</m_attachmentPoints>
 		</m_behaviorDataSets>
