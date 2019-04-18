@@ -7,20 +7,8 @@
 		<revision>114</revision>
 	</m_Version>
 	<m_ClassName text="VFX"/>
-	<m_PackageName text="uniqueUnitsVFX"/>
+	<m_PackageName text="unitExpansionVFX"/>
 	<m_Entries>
-        <Element>
-            <m_EntryID text="FXm_Spear"/>
-            <m_ObjectName text="FXm_Spear"/>
-        </Element>
-        <Element>
-            <m_EntryID text="FX_Ballista_Arrow_Trail"/>
-            <m_ObjectName text="FX_Ballista_Arrow_Trail"/>
-        </Element>
-        <Element>
-            <m_EntryID text="FX_Ballista_Fire_Trail"/>
-            <m_ObjectName text="FX_Ballista_Fire_Trail"/>
-        </Element>
 		<Element>
 			<m_EntryID text="FX_Trebuchet_Fire_Trail"/>
 			<m_ObjectName text="FX_Trebuchet_Fire_Trail"/>

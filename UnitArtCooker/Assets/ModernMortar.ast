@@ -87,20 +87,20 @@
 		<m_ModelInstances>
 			<Element>
 				<m_Name text="CrouchingTiger_Cannon"/>
-				<m_GeoName text="ModernMortar"/>
+				<m_GeoName text="Mortar_Wolfdog"/>
 				<m_GroupStates>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Mortar"/>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="Mortar_Wolfdog"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="CrouchingTiger_Cannon_Material"/>
-						<m_MeshName text="CrouchingTiger_CannonShape#M"/>
+						<m_GroupName text="Mortar_Material"/>
+						<m_MeshName text="Mortar#M"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

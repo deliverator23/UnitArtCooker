@@ -2807,6 +2807,12 @@
     <Content Include="Geometries\ModernMortar.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Geometries\Mortar.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\Mortar.geo">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Geometries\Musketeer_HatA.fgx">
       <SubType>Content</SubType>
     </Content>
@@ -3390,6 +3396,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Mortar.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Mortar_Wolfdog.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Musketeer.mtl">
@@ -6059,10 +6068,10 @@
     <Content Include="Textures\White_Metal.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\uniqueUnits.xlp">
+    <Content Include="XLPs\unitExpansion.xlp">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\uniqueUnitsVFX.xlp">
+    <Content Include="XLPs\unitExpansionVFX.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>

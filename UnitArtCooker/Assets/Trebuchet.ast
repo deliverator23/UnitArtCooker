@@ -409,7 +409,7 @@
 								<m_AttachmentPointName text="FX_Launch_Loc_01"/>
 								<m_fStartTime>0</m_fStartTime>
 								<m_fDuration>0.68</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
+								<m_nTrackIndex>1</m_nTrackIndex>
 							</Element>
 							<Element>
 								<m_eType>TRANSFER</m_eType>
@@ -420,7 +420,7 @@
 								<m_AttachmentPointName text=""/>
 								<m_fStartTime>0.68</m_fStartTime>
 								<m_fDuration>1.6666666</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
+								<m_nTrackIndex>1</m_nTrackIndex>
 							</Element>
 							<Element>
 								<m_eType>SOUND</m_eType>
