@@ -50,15 +50,15 @@
 			<m_ObjectName text="KnightWarrior_ArmorA"/>
 		</Element>
 		<Element>
-			<m_EntryID text="Gothic_Longswordman_Armor"/>
+			<m_EntryID text="GothicKnight_foot"/>
 			<m_ObjectName text="GothicKnight_foot"/>
 		</Element>
 		<Element>
-			<m_EntryID text="Longswordman_Armor_Asian"/>
+			<m_EntryID text="longswordsman_asian1"/>
 			<m_ObjectName text="longswordsman_asian1"/>
 		</Element>
 		<Element>
-			<m_EntryID text="Longsword_Asian"/>
+			<m_EntryID text="longsword_asian"/>
 			<m_ObjectName text="longsword_asian"/>
 		</Element>
 		<Element>
