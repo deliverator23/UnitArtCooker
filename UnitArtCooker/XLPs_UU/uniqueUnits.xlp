@@ -10,6 +10,18 @@
 	<m_PackageName text="units/uniqueUnits"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="Male_Caucasian_MediumBody_ArmsA"/>
+			<m_ObjectName text="Male_Caucasian_MediumBody_ArmsA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HorsemanCavalry_HorseArmorA"/>
+			<m_ObjectName text="HorsemanCavalry_HorseArmorA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MedievalJavelinHorseman_ArmorA"/>
+			<m_ObjectName text="MedievalJavelinHorseman_ArmorA"/>
+		</Element>
+		<Element>
 			<m_EntryID text="AborigineSlinger_ArmorA"/>
 			<m_ObjectName text="AborigineSlinger_ArmorA"/>
 		</Element>
