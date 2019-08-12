@@ -680,6 +680,12 @@
     <Content Include="Animations\helicoptergunship_victory.fgx">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Animations\Horseman_Spear_Throw.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Horseman_Spear_Throw.fgx">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Animations\Longswordsman_Idle.anm">
       <SubType>Content</SubType>
     </Content>
@@ -690,6 +696,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\Longsword_Idle_anim.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Mounted_Sword_AttackA.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Mounted_Sword_AttackA.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Mounted_Sword_Idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\Mounted_Sword_Idle.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\Peltast_Throw.anm">
@@ -882,6 +900,162 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\trebuchet_victory.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_attacka.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_attacka.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_attackb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_attackb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_bombard_defense_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_combat_ready_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deatha.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deatha.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deatha_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deatha_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deathb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deathb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deathb_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_deathb_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fidgeta.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fidgeta.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fidgetb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fidgetb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_fidget.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_fidget.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_trans_combat_ready_idle.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_trans_combat_ready_idle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_fortify_idle_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idlea_trans_idleb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idlea_trans_idleb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idleb.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idleb.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idleb_trans_idlea.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_idleb_trans_idlea.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_run.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_run.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_stop_run.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_stop_run.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_victory.anm">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Animations\u_english_shipoftheline_victory.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\u_indonesian_kris_swordsman_attacka.anm">
@@ -1524,783 +1698,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Animations\u_venetian_galleass_victory.fgx">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\AborigineSlinger_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\AfricanForestElephant.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\African_HelmA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\AH64-Apache.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Amazon_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Amazon_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ArmoredHorseman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ballista.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Bandeirante_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Beret_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Berserker_HelmA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Berserker_HelmB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Berserker_HelmC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Berserker_HelmD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Berzerker_Swordsman_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Cataphract_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Chasqui_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Chasqui_Weapon.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ClaymoreA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Cog.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Conquistador_HelmA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_D.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_E.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_F.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Crusader_Helmet_G.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Cuirassier_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Cuirassier_Helm_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Eastern_Euro_HorseArcher_HorseArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Eastern_Euro_Horse_Archer_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Eastern_Euro_Horse_Archer_HelmA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Egyptian_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ElephantDriver_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ElephantRider_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ElephantRider_ArmorB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Empty_HorseArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_01.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_02.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_03.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_04.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_05.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_06.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_07.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_08.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_09.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_10.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_11.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_12.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_13.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_14.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_15.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_16.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_17.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_18.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_19.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_20.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_21.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_22.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_23.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_24.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_25.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_26.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\France_Heater_Shield_27.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FXm_Spear.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Ballista_Arrow_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Ballista_Fire_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\FX_Trebuchet_Fire_Trail.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Galleass.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gatling_Gun.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gatling_Gun_African.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gatling_Gun_Brown_Haired.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gatling_Gun_Middle_Eastern.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gendarme_Helm_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gendarme_Helm_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Gendarme_Helm_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Georgian_KiteShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Georgian_KiteShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Georgian_KiteShieldC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Georgian_KiteShieldD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Hakka_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Hakka_Helmet.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\HeadbandA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\HeadbandB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Full_Cross_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Full_Cross_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Jerusalem_D.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Jerusalem_E.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Moline_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Moline_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Pattee_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Pattee_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Pattee_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_Pattee_D.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_StJohn_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_StJohn_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Heater_Shield_StJohn_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Horseman_Cloak_Doublesided.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Horse_Medium_Mane_D.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Indo_Shield.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Indo_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Indo_ShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\InfantryMortar_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\InfantryObserver.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ironside_Armor_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ironside_Helmet.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ironside_HorseArmor_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\JavelinHorseman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Jeep_Infantry.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Khopesh_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Kite_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Kite_ShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\KnightWarrior_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Kris.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Kris_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Lancer_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Lancer_HorseArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Landsknecht_Armor_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Landsknecht_Armor_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Landsknecht_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Landsknecht_HatB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Longbowman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\LongswordA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Longswordsman_HelmA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonHelm_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A1.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A2.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A3.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A4.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A5.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A6.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A7.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_A8.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_B1.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_B2.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_B3.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MacedonShield_C1.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Macedon_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Macedon_Sarissa.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_African_ThinBody_Full_LegsBent.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_Caucasian_HeadQ.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_Caucasian_HeadR.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_Caucasian_HeadS.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_Caucasian_HeadT.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_MaoriTattoo_HeadB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_Maori_BuffBody_FullFeetA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_MiddleEastern_BuffBody_FullFeetA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_MiddleEastern_MediumBody_ThinLegsA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_NativeAmerican_BuffBody_UpperA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_NativeAmerican_HeadA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_NativeAmerican_HeadB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_NativeAmerican_HeadC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_NativeAmerican_HeadD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_SouthAmerican_BuffBody_NoButtA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_SouthAmerican_BuffBody_UpperA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Male_SouthAmerican_MediumBody_NoButtA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mamluk_HorseArmorMoreTint.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Maori_SkirtA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_Archer_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_Archer_ArmorB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_HatB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_Pikeman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Mapuche_Pikeman_ArmorB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernInfantryObserver.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernInfantry_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernInfantry_ArmorA2.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernInfantry_RifleA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernInfantry_RifleA2.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ModernMortar.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\MongolianTrebuchet.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatE.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketeer_HatF.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Musketman_Tint_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanArmorCavalry_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanArmorMusketman_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanArmor_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingArmorCavalry_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingArmorCavalry_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingFaceA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingFaceB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingFaceC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanClothingFaceD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmericanHat_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldE.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NativeAmerican_ShieldF.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\NoPack_CamelA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Panzer_VI.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Peltast_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Peltast_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Peltast_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\PersianWarship.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Persian_Face_Helm_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Persian_Face_Helm_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Persian_Face_Helm_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Persian_Face_Helm_D.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Phalanx_Shield.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\PlateMailBuffHorseman_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\PlateMailCatapultOperatorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\PlateMailWarrior_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Renaissance_HatA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Rifleman_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Rifleman_Gun.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Rifleman_Hat.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldE.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldF.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldG.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldH.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldJ.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldK.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Round_ShieldL.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Russian_KiteShieldA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Russian_KiteShieldB.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Russian_KiteShieldC.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Russian_KiteShieldD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sabre.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Self_Propelled_Artillery.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Septireme.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ShipoftheLine.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\ShipoftheLineFlag.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Simple_Amulet.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sipahi_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sipahi_HorseArmor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sipahi_Spear.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Skirt_Ranger_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sofa_ArmorA.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Spearman_European_HelmD.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Sweden_Ship.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\T34_Tank.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Templar_Swordsman_Armor_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Templar_Swordsman_Armor_B.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Templar_Swordsman_Armor_C.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Tomahawk_A.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Trebuchet.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Tribal_Class.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Tricorn_Hat.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Tupara_Shotgun.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Turban.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ulfhednar_Berzerker_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Ulfhednar_Gothi_Armor.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\U_Indonesian_Kris_Swordsman.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\U_Korean_Turtle_Ship.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\U_Venetian_Galleass.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\WarCanoe.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\WarCanoeRetintable.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\WarCart_HelmB.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Behaviors\AH64-Apache.bhv">
@@ -6068,10 +5465,7 @@
     <Content Include="Textures\White_Metal.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\unitExpansion.xlp">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="XLPs\unitExpansionVFX.xlp">
+    <Content Include="XLPs\uniqueUnits.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>

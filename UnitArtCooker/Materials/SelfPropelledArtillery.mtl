@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects:MaterialInstance>
+<AssetObjects..MaterialInstance>
 	<m_CookParams>
 		<m_Values>
-			<Element class="AssetObjects:ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="SPGun_a"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
@@ -17,7 +17,7 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
 			</Element>
-			<Element class="AssetObjects::BoolValue">
+			<Element class="AssetObjects..BoolValue">
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
@@ -26,7 +26,7 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
 			</Element>
-			<Element class="AssetObjects:ObjectValue">
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="SPGun_tg2"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="TintMask"/>
@@ -52,4 +52,4 @@
 		<Element text="Unit"/>
 	</m_Tags>
 	<m_Groups/>
-</AssetObjects:MaterialInstance>
+</AssetObjects..MaterialInstance>

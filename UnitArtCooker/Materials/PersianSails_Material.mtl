@@ -17,7 +17,7 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
 			</Element>
-			<Element class="AssetObjects::BoolValue">
+			<Element class="AssetObjects..BoolValue">
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
@@ -36,7 +36,7 @@
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>
 			</Element>
-			<Element class="AssetObjects::BoolValue">
+			<Element class="AssetObjects..BoolValue">
 				<m_bValue>true</m_bValue>
 				<m_ParamName text="Translucency"/>
 			</Element>
