@@ -5465,9 +5465,6 @@
     <Content Include="Textures\White_Metal.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\uniqueUnits.xlp">
-      <SubType>Content</SubType>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Animations\" />
