@@ -17,6 +17,30 @@
 			<m_EntryID text="Mayan_ShieldA"/>
 			<m_ObjectName text="Mayan_ShieldA"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Mayan_ShieldB1"/>
+			<m_ObjectName text="Mayan_ShieldB1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mayan_ShieldC1"/>
+			<m_ObjectName text="Mayan_ShieldC1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mayan_ShieldC2"/>
+			<m_ObjectName text="Mayan_ShieldC2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mayan_ShieldD1"/>
+			<m_ObjectName text="Mayan_ShieldD1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mayan_ShieldD2"/>
+			<m_ObjectName text="Mayan_ShieldD2"/>
+		</Element>
+        <Element>
+            <m_EntryID text="British_Legion_Armor_A"/>
+            <m_ObjectName text="British_Legion_Armor_A"/>
+        </Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
