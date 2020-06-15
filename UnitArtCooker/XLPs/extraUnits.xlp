@@ -10,6 +10,10 @@
 	<m_PackageName text="units/extraUnits"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="Cuirassier_helmet_01"/>
+			<m_ObjectName text="Cuirassier_helmet_01"/>
+		</Element>
+		<Element>
 			<m_EntryID text="Cuirassier_Sword_ArmorA"/>
 			<m_ObjectName text="Cuirassier_Sword_ArmorA"/>
 		</Element>
