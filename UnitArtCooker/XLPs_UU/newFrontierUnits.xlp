@@ -10,6 +10,14 @@
 	<m_PackageName text="units/newFrontierUnits"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="Male_SouthAmerican_HeadA"/>
+			<m_ObjectName text="Male_SouthAmerican_HeadA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Male_SouthAmerican_HairD"/>
+			<m_ObjectName text="Male_SouthAmerican_HairD"/>
+		</Element>
+		<Element>
 			<m_EntryID text="Holkan_ArmorA"/>
 			<m_ObjectName text="Holkan_ArmorA"/>
 		</Element>

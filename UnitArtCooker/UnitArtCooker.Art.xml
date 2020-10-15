@@ -569,7 +569,7 @@
 		<Element>
 			<libraryName text="Unit"/>
 			<relativePackagePaths>
-				<Element text="units/extraUnits"/>
+				<Element text="units/uniqueUnits"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
