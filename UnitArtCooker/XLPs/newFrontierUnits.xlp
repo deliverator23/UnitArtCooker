@@ -49,6 +49,34 @@
             <m_EntryID text="British_Legion_Armor_A"/>
             <m_ObjectName text="British_Legion_Armor_A"/>
         </Element>
+		<Element>
+			<m_EntryID text="Mehal_Armor_01"/>
+			<m_ObjectName text="Mehal_Armor_01"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mehal_Hat"/>
+			<m_ObjectName text="Mehal_Hat"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HeavyChariot_CartA_Flat"/>
+			<m_ObjectName text="HeavyChariot_CartA_Flat"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_Shield_Byz"/>
+			<m_ObjectName text="Round_Shield_Byz"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_Shield_Byz_2"/>
+			<m_ObjectName text="Round_Shield_Byz_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Round_Shield_Byz_3"/>
+			<m_ObjectName text="Round_Shield_Byz_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HeavyChariot_DriverA"/>
+			<m_ObjectName text="HeavyChariot_DriverA"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

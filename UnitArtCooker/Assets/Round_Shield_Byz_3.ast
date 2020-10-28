@@ -29,7 +29,7 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Round_Shield_Byz"/>
+									<m_ObjectName text="Round_Shield_Byz_3"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
@@ -58,7 +58,7 @@
 	<m_Materials/>
 	<m_ClassName text="Unit"/>
 	<m_DataFiles/>
-	<m_Name text="Round_Shield_Byz"/>
+	<m_Name text="Round_Shield_Byz_3"/>
 	<m_Description text=""/>
 	<m_Tags>
 		<Element text="Unit"/>
