@@ -77,6 +77,10 @@
 			<m_EntryID text="HeavyChariot_DriverA"/>
 			<m_ObjectName text="HeavyChariot_DriverA"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Robe_Archer_ArmorB"/>
+			<m_ObjectName text="Robe_Archer_ArmorB"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

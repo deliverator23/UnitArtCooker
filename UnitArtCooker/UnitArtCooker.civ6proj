@@ -25,5 +25,14 @@
   <ItemGroup>
     <None Include="UnitArtCooker.Art.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="XLPs\newFrontierUnits.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>

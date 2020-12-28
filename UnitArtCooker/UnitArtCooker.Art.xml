@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::GameArtSpecification>
+<AssetObjects..GameArtSpecification>
 	<id>
 		<name text="UnitArtCooker"/>
 		<id text="666af978-c3c5-447e-9b39-a9001b7c3335"/>
@@ -8,6 +8,8 @@
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
+				<Element text="Units.artdef"/>
+				<Element text="Unit_Bins.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Unit"/>
@@ -301,6 +303,8 @@
 		<Element>
 			<consumerName text="Audio"/>
 			<relativeArtDefPaths>
+				<Element text="Units.artdef"/>
+				<Element text="Unit_Bins.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -569,6 +573,7 @@
 		<Element>
 			<libraryName text="Unit"/>
 			<relativePackagePaths>
+				<Element text="units/newFrontierUnits"/>
 				<Element text="units/uniqueUnits"/>
 			</relativePackagePaths>
 		</Element>
@@ -598,9 +603,5 @@
 			<name text="Expansion2"/>
 			<id text="b1b63999-6b16-4dd2-a5b6-eb19794aa8ca"/>
 		</Element>
-		<Element>
-			<name text="Expansion1"/>
-			<id text="7446c8fe-29eb-44f8-801f-098f681cc5c5"/>
-		</Element>
 	</requiredGameArtIDs>
-</AssetObjects::GameArtSpecification>
+</AssetObjects..GameArtSpecification>
