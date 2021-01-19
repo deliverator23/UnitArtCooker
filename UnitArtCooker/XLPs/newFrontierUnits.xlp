@@ -81,6 +81,18 @@
 			<m_EntryID text="Robe_Archer_ArmorB"/>
 			<m_ObjectName text="Robe_Archer_ArmorB"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Peltast_ShieldB"/>
+			<m_ObjectName text="Peltast_ShieldB"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Peltast_ShieldC"/>
+			<m_ObjectName text="Peltast_ShieldC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Peltast_ShieldD"/>
+			<m_ObjectName text="Peltast_ShieldD"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
