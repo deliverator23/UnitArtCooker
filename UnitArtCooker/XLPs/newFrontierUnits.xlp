@@ -1,103 +1,115 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects..XLP>
-	<m_Version>
-		<major>4</major>
-		<minor>0</minor>
-		<build>253</build>
-		<revision>867</revision>
-	</m_Version>
-	<m_ClassName text="Unit"/>
-	<m_PackageName text="units/newFrontierUnits"/>
-	<m_Entries>
-		<Element>
-			<m_EntryID text="Male_SouthAmerican_HeadA"/>
-			<m_ObjectName text="Male_SouthAmerican_HeadA"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Male_SouthAmerican_HairD"/>
-			<m_ObjectName text="Male_SouthAmerican_HairD"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Holkan_ArmorA"/>
-			<m_ObjectName text="Holkan_ArmorA"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldA"/>
-			<m_ObjectName text="Mayan_ShieldA"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldB1"/>
-			<m_ObjectName text="Mayan_ShieldB1"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldC1"/>
-			<m_ObjectName text="Mayan_ShieldC1"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldC2"/>
-			<m_ObjectName text="Mayan_ShieldC2"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldD1"/>
-			<m_ObjectName text="Mayan_ShieldD1"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mayan_ShieldD2"/>
-			<m_ObjectName text="Mayan_ShieldD2"/>
-		</Element>
+    <m_Version>
+        <major>4</major>
+        <minor>0</minor>
+        <build>253</build>
+        <revision>867</revision>
+    </m_Version>
+    <m_ClassName text="Unit"/>
+    <m_PackageName text="units/newFrontierUnits"/>
+    <m_Entries>
+        <Element>
+            <m_EntryID text="Male_SouthAmerican_HeadA"/>
+            <m_ObjectName text="Male_SouthAmerican_HeadA"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Male_SouthAmerican_HairD"/>
+            <m_ObjectName text="Male_SouthAmerican_HairD"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Holkan_ArmorA"/>
+            <m_ObjectName text="Holkan_ArmorA"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldA"/>
+            <m_ObjectName text="Mayan_ShieldA"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldB1"/>
+            <m_ObjectName text="Mayan_ShieldB1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldC1"/>
+            <m_ObjectName text="Mayan_ShieldC1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldC2"/>
+            <m_ObjectName text="Mayan_ShieldC2"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldD1"/>
+            <m_ObjectName text="Mayan_ShieldD1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_ShieldD2"/>
+            <m_ObjectName text="Mayan_ShieldD2"/>
+        </Element>
         <Element>
             <m_EntryID text="British_Legion_Armor_A"/>
             <m_ObjectName text="British_Legion_Armor_A"/>
         </Element>
-		<Element>
-			<m_EntryID text="Mehal_Armor_01"/>
-			<m_ObjectName text="Mehal_Armor_01"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Mehal_Hat"/>
-			<m_ObjectName text="Mehal_Hat"/>
-		</Element>
-		<Element>
-			<m_EntryID text="HeavyChariot_CartA_Flat"/>
-			<m_ObjectName text="HeavyChariot_CartA_Flat"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Round_Shield_Byz"/>
-			<m_ObjectName text="Round_Shield_Byz"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Round_Shield_Byz_2"/>
-			<m_ObjectName text="Round_Shield_Byz_2"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Round_Shield_Byz_3"/>
-			<m_ObjectName text="Round_Shield_Byz_3"/>
-		</Element>
-		<Element>
-			<m_EntryID text="HeavyChariot_DriverA"/>
-			<m_ObjectName text="HeavyChariot_DriverA"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Robe_Archer_ArmorB"/>
-			<m_ObjectName text="Robe_Archer_ArmorB"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Peltast_ShieldB"/>
-			<m_ObjectName text="Peltast_ShieldB"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Peltast_ShieldC"/>
-			<m_ObjectName text="Peltast_ShieldC"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Peltast_ShieldD"/>
-			<m_ObjectName text="Peltast_ShieldD"/>
-		</Element>
-	</m_Entries>
-	<m_AllowedPlatforms>
-		<Element>WINDOWS</Element>
-		<Element>LINUX</Element>
-		<Element>MACOS</Element>
-		<Element>IOS</Element>
-	</m_AllowedPlatforms>
+        <Element>
+            <m_EntryID text="Mehal_Armor_01"/>
+            <m_ObjectName text="Mehal_Armor_01"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mehal_Hat"/>
+            <m_ObjectName text="Mehal_Hat"/>
+        </Element>
+        <Element>
+            <m_EntryID text="HeavyChariot_CartA_Flat"/>
+            <m_ObjectName text="HeavyChariot_CartA_Flat"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Round_Shield_Byz"/>
+            <m_ObjectName text="Round_Shield_Byz"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Round_Shield_Byz_2"/>
+            <m_ObjectName text="Round_Shield_Byz_2"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Round_Shield_Byz_3"/>
+            <m_ObjectName text="Round_Shield_Byz_3"/>
+        </Element>
+        <Element>
+            <m_EntryID text="HeavyChariot_DriverA"/>
+            <m_ObjectName text="HeavyChariot_DriverA"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Robe_Archer_ArmorB"/>
+            <m_ObjectName text="Robe_Archer_ArmorB"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Peltast_ShieldB"/>
+            <m_ObjectName text="Peltast_ShieldB"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Peltast_ShieldC"/>
+            <m_ObjectName text="Peltast_ShieldC"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Peltast_ShieldD"/>
+            <m_ObjectName text="Peltast_ShieldD"/>
+        </Element>
+        <Element>
+            <m_EntryID text="AK-47"/>
+            <m_ObjectName text="AK-47"/>
+        </Element>
+        <Element>
+            <m_EntryID text="VietCong_Hat_A"/>
+            <m_ObjectName text="VietCong_Hat_A"/>
+        </Element>
+        <Element>
+            <m_EntryID text="VietCong_Armor_A"/>
+            <m_ObjectName text="VietCong_Armor_A"/>
+        </Element>
+    </m_Entries>
+    <m_AllowedPlatforms>
+        <Element>WINDOWS</Element>
+        <Element>LINUX</Element>
+        <Element>MACOS</Element>
+        <Element>IOS</Element>
+    </m_AllowedPlatforms>
 </AssetObjects..XLP>
