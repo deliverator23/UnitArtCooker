@@ -105,6 +105,18 @@
             <m_EntryID text="VietCong_Armor_A"/>
             <m_ObjectName text="VietCong_Armor_A"/>
         </Element>
+        <Element>
+            <m_EntryID text="Aviz_Armor_A"/>
+            <m_ObjectName text="Aviz_Armor_A"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Aviz_Horse_Armor_A"/>
+            <m_ObjectName text="Aviz_Horse_Armor_A"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Heater_Shield_Aviz_A"/>
+            <m_ObjectName text="Heater_Shield_Aviz_A"/>
+        </Element>
     </m_Entries>
     <m_AllowedPlatforms>
         <Element>WINDOWS</Element>
