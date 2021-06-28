@@ -117,6 +117,18 @@
             <m_EntryID text="Heater_Shield_Aviz_A"/>
             <m_ObjectName text="Heater_Shield_Aviz_A"/>
         </Element>
+		<Element>
+			<m_EntryID text="Heater_Shield_Aviz_B"/>
+			<m_ObjectName text="Heater_Shield_Aviz_B"/>
+		</Element>
+        <Element>
+            <m_EntryID text="Male_Maori_BuffBody_FullFeetA"/>
+            <m_ObjectName text="Male_Maori_BuffBody_FullFeetA"/>
+        </Element>
+		<Element>
+			<m_EntryID text="Male_MaoriTattoo_HeadB"/>
+			<m_ObjectName text="Male_MaoriTattoo_HeadB"/>
+		</Element>	
     </m_Entries>
     <m_AllowedPlatforms>
         <Element>WINDOWS</Element>
