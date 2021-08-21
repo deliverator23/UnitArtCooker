@@ -128,7 +128,11 @@
 		<Element>
 			<m_EntryID text="Male_MaoriTattoo_HeadB"/>
 			<m_ObjectName text="Male_MaoriTattoo_HeadB"/>
-		</Element>	
+		</Element>
+        <Element>
+            <m_EntryID text="Ballista"/>
+            <m_ObjectName text="Ballista"/>
+        </Element>
     </m_Entries>
     <m_AllowedPlatforms>
         <Element>WINDOWS</Element>
