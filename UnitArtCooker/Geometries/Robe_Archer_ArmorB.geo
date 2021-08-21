@@ -24,6 +24,19 @@
 <m_nVertexCount>983</m_nVertexCount>
 </Element>
 <Element>
+<m_Name text="Feet"/>
+<m_Groups>
+<Element>
+<m_Name text="Base_Male_Material"/>
+<m_nFirstPrim>0</m_nFirstPrim>
+<m_nPrims>96</m_nPrims>
+</Element>
+</m_Groups>
+<m_nBoundBoneCount>6</m_nBoundBoneCount>
+<m_nPrimitiveCount>96</m_nPrimitiveCount>
+<m_nVertexCount>288</m_nVertexCount>
+</Element>
+<Element>
 <m_Name text="GreatProphetAShape"/>
 <m_Groups>
 <Element>
